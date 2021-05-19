@@ -1,4 +1,4 @@
-# AutoInland-Vehicle-Insurance-Claim-Challenge-
+# AutoInland-Vehicle-Insurance-Claim-Challenge
 Zindi Challenge
 
 Team 
@@ -7,3 +7,5 @@ Team
 - Newton Mbugua
 - John Kamau Kariuki
 - Alex Gatangi
+
+EDA was finished
