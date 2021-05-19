@@ -9,4 +9,4 @@ Team
 - Alex Gatangi
 
 EDA was finished
-Starting in Baseline models
+Starting in Baseline modelsss
