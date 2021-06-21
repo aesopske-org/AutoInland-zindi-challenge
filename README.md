@@ -7,6 +7,8 @@ Team
 - Newton Mbugua
 - John Kamau Kariuki
 - Alex Gatangi
+- Stephen Nganga
 
 EDA was finished
 Starting in Baseline modelsss
+completed the model
